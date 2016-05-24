@@ -16,4 +16,4 @@ tags: 开发
 
 当然，我也承认：即使团队再小，沟通的形式还是很重要的，为此我特意在[内部培训](https://github.com/shifudao/15mins)中安排了一次关于[Issue Ticket书写的讨论](https://github.com/shifudao/15mins/blob/master/issue_ticket该怎么写.md)。而这篇“How to Write a Git Commit Message”来得恰逢其时，正好可以安排到下次培训。
 
-好好看看，做个体贴的代码提交人，未来你会自己感谢自己的。
+好好看看，做个体贴的代码提交人，未来的你会感谢当下的自己。
