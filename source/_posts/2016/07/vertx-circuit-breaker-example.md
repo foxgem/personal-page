@@ -1,7 +1,7 @@
 ---
 title: Vert.x Circuit Breaker须知
 date: 2016-07-11 17:30:03
-tags: 开发
+tags: 微服务
 ---
 
 Vert.x 3.3新增的[Circuit Breaker](http://vertx.io/docs/vertx-circuit-breaker/java/)深得我心，使用简单，而且文档齐全。今天照着文档写了[一个探索性的例子](https://github.com/shifudao/how-to/tree/master/circuitbreaker)，为接下来的项目做技术性预研。
